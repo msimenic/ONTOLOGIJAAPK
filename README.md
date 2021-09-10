@@ -1,0 +1,2 @@
+# ONTOLOGIJAAPK
+Android aplikacija Ontologija
